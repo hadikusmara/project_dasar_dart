@@ -24,7 +24,7 @@ main() {
     }
   }
 
-  String namagab = gabungnama("Hadi Kusmara");
+  String namagab = gabungnama("Hadi Kusmara Ubharajaya ");
   print("hasil gabung: $namagab");
   namagab = gabungnama("Udin Samsudin");
   print("hasil gabung 2: $namagab");
